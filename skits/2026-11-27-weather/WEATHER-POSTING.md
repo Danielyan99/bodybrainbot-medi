@@ -25,7 +25,7 @@ Real study (Nature, 2024): Google's AI weather model beat the world's top foreca
 Send this to the friend who trusts their knee over the forecast 👇
 #ai #robot #weather #rain #funny #bodybrainbot
 
-**Instagram first comment:** honestly, who do you trust more: the forecast or grandma's knee? 🦵☔
+**Instagram first comment:** honestly, who do you trust more: the forecast or your knee? 🦵☔
 
 **TikTok caption:**
 His knee vs a robot forecast ☔🤖 Wait for the ending 😅 Real study (Nature, 2024): Google's AI weather model beat the world's top forecast on 97% of tests. Send this to the friend who trusts their knee over the forecast 👇 #ai #robot #weather #funny #bodybrainbot
