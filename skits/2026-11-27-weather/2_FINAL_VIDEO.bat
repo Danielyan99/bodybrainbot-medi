@@ -2,7 +2,7 @@
 title Body Brain Bot - FINAL render (The weather)
 cd /d "%~dp0"
 echo Getting the newest kit.zip... & powershell -NoProfile -Command "try { Invoke-WebRequest -UseBasicParsing -Uri ('https://raw.githubusercontent.com/Danielyan99/bodybrainbot-medi/claude/project-thread-rcgt0p/skits/2026-11-27-weather/kit.zip?v=' + (Get-Random)) -OutFile '%~dp0kit.zip' } catch { Write-Host 'Download failed, using the kit.zip already here.' }"
-for %%A in ("%~dp0kit.zip") do echo kit.zip size: %%~zA bytes (newest = 3920462)
+for %%A in ("%~dp0kit.zip") do echo kit.zip size: %%~zA bytes (newest = 3890372)
 echo Unpacking files... & powershell -NoProfile -Command "Expand-Archive -Force -LiteralPath '%~dp0kit.zip' -DestinationPath '%~dp0'"
 call :findblender
 echo Using: %B%
