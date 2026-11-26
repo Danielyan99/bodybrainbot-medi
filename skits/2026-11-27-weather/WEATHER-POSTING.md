@@ -1,6 +1,6 @@
 # Sam vs Bot: The weather
 
-**File:** weather-1080x1920.mp4 (26 s). The final render saves it in this folder.
+**File:** weather-1080x1920.mp4 (25 s). The final render saves it in this folder.
 **When:** Fri 27 Nov, 18:00 Yerevan, on all 3 apps. Keep the 21:00 Short 3 h later; nothing else within 2 h.
 **Cover:** weather-cover.jpg on all 3 apps.
 **Settings:** YouTube "altered content": No. Not made for kids. TikTok AI-generated content: on. Instagram: no AI toggle on PC (Business Suite), that's fine for a cartoon.
